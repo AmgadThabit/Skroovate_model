@@ -23,7 +23,7 @@ To build a classification model that can:
 ## 🛠️ How It Works
 
 1. **Synthetic Data Generation**  
-   - Creates 100,000 fake samples for:
+   - Creates 100,000 mock-up samples for:
      - Heart Rate: values between 50–200 BPM
      - SpO2: values between 85–101%
      - Time Skating: values between 1–45 minutes

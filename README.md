@@ -1,5 +1,5 @@
 
-# 🛹 Skating Athletes Analysis / Smart-Skate System implementation / Game + Interactive Floor Projection Visualization
+# 🛼 Skating Athletes Analysis / Smart-Skate System implementation / Game + Interactive Floor Projection Visualization
 
 This project uses real biometric data to assess and classify the **performance** and **risk levels** of roller skating/blading athletes. It leverages machine learning models to categorize individuals based on:
 
